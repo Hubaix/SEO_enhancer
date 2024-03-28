@@ -4,6 +4,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import random
 
+
 def get_google_results(query):
     ddgs = DDGS()
 
