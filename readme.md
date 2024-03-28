@@ -2,6 +2,7 @@
 
 This Python script demonstrates keyword extraction using Natural Language Processing (NLP) techniques. It utilizes NLTK (Natural Language Toolkit) for tokenization, stop word removal, and n-gram generation. It also employs the SentenceTransformer library for computing cosine similarity between a query and keywords. The DuckDuckGo Instant Answer API is used to retrieve relevant text data.
 
+
 ## Features
 
 - Extract important keywords from a given text based on a query.
